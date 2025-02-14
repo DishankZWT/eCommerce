@@ -1,0 +1,17 @@
+APP_NAME=MyNodeApp 
+APP_ENV=development 
+APP_PORT=3000 
+DEBUG=true
+
+MYSQL_HOST=127.0.0.1
+MYSQL_USER=admin
+MYSQL_PASSWORD=root
+MYSQL_DATABASE=mydb
+
+PRIMARY_TABLE=sqmodel
+JWT_SECRET=private
+
+TEST_HOST=127.0.0.1
+TEST_DATABASE=Ecommerce
+
+BASE_URL=http://localhost:3000/api
