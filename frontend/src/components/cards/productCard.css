@@ -1,0 +1,15 @@
+.card {
+  background-color: #f0f0f0;
+  width: 40%;
+  padding: 1% 1%;
+  margin: 0.5% 0;
+}
+
+p {
+  padding-top: 10px;
+}
+
+img {
+  width: 98%;
+  height: 50%;
+}

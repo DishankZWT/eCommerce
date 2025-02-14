@@ -1,0 +1,23 @@
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: space-around;
+  justify-self: center;
+  margin-top: 3%;
+}
+
+.product-table {
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+}
+
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 5px;
+}
